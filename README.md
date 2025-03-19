@@ -7,15 +7,14 @@
 <br />
 
 ## 🚀 About Me
-I am a passionate **Software Engineering (Software Technology) postgraduate student** who loves my profession. Here's a more information about me:
+I am a passionate **Software Engineering (Software Technology) postgraduate student** who loves my profession.I just started my first year of postgraduate school this year, and I'm looking forward to my postgraduate life! Here's a more information about me:
 
-- 🌱 **I am currently learning**: framework-based software design and development, UX,software engineering management and practice, and more. My goal is to become proficient and apply what I have learned.
+- 🌱 **I am currently learning**: framework-based software design and development, UX,software engineering management and practice, and more. I hope to learn a lot about software architecture and practice and how to better develop systems.
+- 📚 **Course Expectations**: Gain hands-on experience in software development and design.
 - 💬 **You can ask me**: full stack development, Python, Java , database management or anything related to technology!
 
 - 📫 **How to Reach Me**: My Email:23095061@siswa.um.edu.my | LinkedIn: www.linkedin.com/in/linlin666666 
-- 😄 **Pronouns**: He/Him or She/Her or They/Them
-- ⚡ **interesting fact**: I like to find simpler ways to design software engineering projects
-
+- ⚡ **interesting fact**: Loves all kinds of food🤩
 ---
 
 ## 🛠️ Tech Stack
@@ -44,12 +43,11 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - [LinkedIn](www.linkedin.com/in/linlin666666)
 - [Email](23095061@siswa.um.edu.my)
 
+## GitHub Profile😎
+You can view my personalized GitHub profile
+(https://github.com/Linlin-web).
+
 <br />
 
 **Thanks for watching🥰**
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
